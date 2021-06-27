@@ -1,10 +1,14 @@
 ## 🤔 깃허브에서 만남 추구하면 안되는 걸까 
 
-# Education
+# Education & Career
 
 <br>
 
 **부산대학교 디자인학과** 2014.03 ~ 2021.02
+
+**Venduster Corp. Product Designer** 19.12.01 ~ 21.04.30
+
+**CodeStates AI 과정 4기** 2021.05 ~ 2021.12
 
 
 <br>
@@ -31,19 +35,6 @@
 
 ----------------------------------------------------------------------------------------------
 
-# Career
-
-<br>
-
-
-- **Venduster Corp. Product Designer** 19.12.01 ~ 21.04.30
-
-- **Code States AI BootCamp** 21.05.06 ~ 21.11.23
-
-<br>
-
-
-----------------------------------------------------------------------------------------------
 
 
 ![LEEGWONSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEGWONSEOK&show_icons=true&theme=radical)
