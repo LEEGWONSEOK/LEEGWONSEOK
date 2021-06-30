@@ -2,7 +2,6 @@
 
 Data Analyst를 준비하고 있습니다
 
-
 # Education & Career
 
 <br>
