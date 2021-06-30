@@ -1,5 +1,7 @@
 ## 🤔 깃허브에서 만남 추구하면 안되는 걸까 
 
+Data Analyst를 준비하고 있습니다
+
 # Education & Career
 
 <br>
