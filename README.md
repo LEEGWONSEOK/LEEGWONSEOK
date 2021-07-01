@@ -46,6 +46,7 @@ Data Analyst를 준비하고 있습니다
 
 
 
+
 ![LEEGWONSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEGWONSEOK&show_icons=true&theme=radical)
 
 ----------------------------------------------------------------------------------------------
