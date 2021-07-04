@@ -9,7 +9,7 @@ Data Analyst를 준비하고 있습니다
 ||||
 |---|---|---|
 |**부산대학교 디자인학과**|2014.03 ~ 2021.02|졸업|
-|**Venduster Corp. Product Designer**|2019.12 ~ 2021.04||
+|**Venduster Corp. Product Designer**|2019.12 ~ 2021.04|UX/UI 디자이너|
 |**CodeStates AI 과정 4기**|2021.05 ~ 2021.12|교육중|
 
 **부산대학교 디자인학과** 2014.03 ~ 2021.02
