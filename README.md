@@ -4,8 +4,6 @@
 
 # Education & Career
 
-
-
 <br>
 
 
