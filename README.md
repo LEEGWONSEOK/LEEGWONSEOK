@@ -7,6 +7,18 @@
 
 <br>
 
+---
+
+### Skill
+
+lang : `Typescript` `Node.js`  <br>
+server : `Express.js`  <br>
+database : `RDB` `NoSQL` <br>
+api : `Postman` `Swagger` <br>
+container : `Docker`
+
+
 ![LEEGWONSEOK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEGWONSEOK&show_icons=true&theme=radical)
 
 ----------------------------------------------------------------------------------------------
+
