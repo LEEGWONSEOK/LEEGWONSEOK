@@ -9,7 +9,7 @@
 
 ### Skill
 
-lang : `Typescript` `Node.js`  <br>
+language : `Typescript` `Node.js`  <br>
 server : `Express.js`  <br>
 database : `MySQL` `MongoDB` `Redis` <br>
 api : `Postman` `SwaggerUI` <br>
