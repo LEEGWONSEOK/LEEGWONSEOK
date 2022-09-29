@@ -9,11 +9,10 @@
 
 ### Skill
 
-language : `Typescript` `Node.js`  <br>
+language : `Node.js`  <br>
 server : `Express.js`  <br>
 database : `MySQL` `MongoDB` `Redis` <br>
 api : `Postman` `SwaggerUI` <br>
-container : `Docker` <br>
 aws : `EC2` `S3` `RDS` <br>
 etc : `ejs`
 
