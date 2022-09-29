@@ -9,7 +9,7 @@
 
 ### *SKILL*
 
-language : `*Node.js*`  <br>
+language : `Node.js`  <br>
 server : `Express.js`  <br>
 database : `MySQL` `MongoDB` `Redis` <br>
 api : `Postman` `SwaggerUI` <br>
