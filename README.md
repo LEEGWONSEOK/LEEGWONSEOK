@@ -1,4 +1,4 @@
-### 🤔 *INTRODUCE*
+### 🤔 &nbsp;*INTRODUCE*
 
 스타트업에서 디자이너로 1년 4개월 일하다가 개발에 매력을 느껴 퇴사한 뒤, <br>
 2021년 9월부터 백엔드 개발자를 준비하고 있는 이권석입니다. <br>
@@ -7,7 +7,7 @@
 
 <br>
 
-### ⚙ *SKILL*
+### ⚙ &nbsp;*SKILL*
 
 language : `Node.js`  <br>
 server : `Express.js`  <br>
@@ -18,7 +18,7 @@ etc : `ejs`
 
 <br>
 
-### 👋 *Contact*
+### 👋 &nbsp;*Contact*
 
 **E-Mail** &nbsp;&nbsp; leestart1023@gmail.com
 
