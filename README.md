@@ -20,6 +20,6 @@ etc : `ejs`
 
 ### *Contact*
 
-**E-Mail** | leestart1023@gmail.com
+**E-Mail** &nbsp;&nbsp; leestart1023@gmail.com
 
-**Blog** | https://velog.io/@9wonsigner
+**Blog** &nbsp;&nbsp; https://velog.io/@9wonsigner
