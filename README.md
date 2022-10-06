@@ -22,4 +22,4 @@ etc : `ejs`
 
 **E-Mail** &nbsp;&nbsp; leestart1023@gmail.com
 
-**Blog** &nbsp;&nbsp; https://velog.io/@9wonsigner
+**Blog** &nbsp;&nbsp;&nbsp;&nbsp; https://velog.io/@9wonsigner
