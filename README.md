@@ -9,12 +9,12 @@
 
 ### ⚙ &nbsp;*SKILL*
 
-language : `Node.js`  <br>
-server : &nbsp;&nbsp;`Express.js`  <br>
-database : `MySQL` `MongoDB` `Redis` <br>
-api : `Postman` `SwaggerUI` <br>
-aws : `EC2` `S3` `RDS` <br>
-etc : `ejs`
+**framework** : &nbsp;&nbsp;`Node.js`  <br>
+**server** : &nbsp;&nbsp;`Express.js`  <br>
+**database** : &nbsp;&nbsp;`MySQL` `MongoDB` `Redis` <br>
+**api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
+**aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
+**etc** : &nbsp;&nbsp;`ejs`
 
 
 <br>
