@@ -9,12 +9,13 @@
 
 ### ⚙ &nbsp;*SKILL*
 
+**language** : &nbsp;&nbsp;`javascirpt` `typescript`  <br>
 **framework** : &nbsp;&nbsp;`Node.js`  <br>
 **server** : &nbsp;&nbsp;`Express.js`  <br>
 **database** : &nbsp;&nbsp;`MySQL` `MongoDB` `Redis` <br>
 **api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
-**etc** : &nbsp;&nbsp;`ejs`
+**etc** : &nbsp;&nbsp;`JSdoc` `prettier` `ESlint` `ejs`
 
 
 
