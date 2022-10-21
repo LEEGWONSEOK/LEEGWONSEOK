@@ -10,7 +10,7 @@
 ### ⚙ &nbsp;*SKILL*
 
 **language** : &nbsp;&nbsp;`javascirpt` `typescript`  <br>
-**framework** : &nbsp;&nbsp;`Node.js`  <br>
+**framework** : &nbsp;&nbsp;`Node.js` `Nest.js`  <br>
 **server** : &nbsp;&nbsp;`Express.js`  <br>
 **database** : &nbsp;&nbsp;`MySQL` `MongoDB` `Redis` <br>
 **api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
