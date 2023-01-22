@@ -19,8 +19,12 @@
 **database** : &nbsp;&nbsp;`MySQL` `PostgreSQL`  `MongoDB` `Redis` <br>
 **api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
-**etc** : &nbsp;&nbsp;`JSdoc` `prettier` `ESlint` `ejs`
+**container** : &nbsp;&nbsp;`Docker` `Kubernetes`  <br>
+**etc** : &nbsp;&nbsp;`JSdoc` `prettier` `ESlint` `ejs`  <br>
 
+<br>
+
+### ⚙ &nbsp;*EXPERIENCE*
 
 
 <br>
