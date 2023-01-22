@@ -17,7 +17,7 @@
 **language** : &nbsp;&nbsp;`javascirpt` `typescript`  <br>
 **framework** : &nbsp;&nbsp;`Node.js` `Nest.js`  <br>
 **server** : &nbsp;&nbsp;`Express.js`  <br>
-**database** : &nbsp;&nbsp;`MySQL` `MongoDB` `Redis` <br>
+**database** : &nbsp;&nbsp;`MySQL` `PostgreSQL`  `MongoDB` `Redis` <br>
 **api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
 **etc** : &nbsp;&nbsp;`JSdoc` `prettier` `ESlint` `ejs`
@@ -30,4 +30,4 @@
 
 **E-Mail** &nbsp;&nbsp;&nbsp;&nbsp; leestart1023@gmail.com
 
-**Archive** &nbsp; [https://www.notion.so/leegwonseok/356aba4c82174ecc9f9b329a2b271299](https://leegwonseok.notion.site/356aba4c82174ecc9f9b329a2b271299)
+**Tech-Blog** &nbsp; [https://www.notion.so/leegwonseok/356aba4c82174ecc9f9b329a2b271299](https://leegwonseok.notion.site/356aba4c82174ecc9f9b329a2b271299)
