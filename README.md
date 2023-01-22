@@ -14,9 +14,8 @@
 
 ### ⚙ &nbsp;*SKILL*
 
-**language** : &nbsp;&nbsp;`javascirpt` `typescript`  <br>
-**framework** : &nbsp;&nbsp;`Node.js` `Nest.js`  <br>
-**server** : &nbsp;&nbsp;`Express.js`  <br>
+**programming** : &nbsp;&nbsp;`javascirpt` `typescript` `Node.js` <br>
+**server-framework** : &nbsp;&nbsp;`Express.js` `Nest.js`  <br>
 **database** : &nbsp;&nbsp;`MySQL` `PostgreSQL`  `MongoDB` `Redis` <br>
 **api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
