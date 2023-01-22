@@ -28,6 +28,6 @@
 
 ### 👋 &nbsp;*Contact*
 
-**E-Mail** &nbsp;&nbsp;&nbsp;&nbsp; leestart1023@gmail.com
+**E-Mail** &nbsp;&nbsp; leestart1023@gmail.com
 
-**Tech-Blog** &nbsp; [https://www.notion.so/leegwonseok/356aba4c82174ecc9f9b329a2b271299](https://leegwonseok.notion.site/356aba4c82174ecc9f9b329a2b271299)
+**Tech-Blog** &nbsp;&nbsp; [https://www.notion.so/leegwonseok/356aba4c82174ecc9f9b329a2b271299](https://leegwonseok.notion.site/356aba4c82174ecc9f9b329a2b271299)
