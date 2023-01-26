@@ -33,4 +33,4 @@
 
 **E-Mail** &nbsp;&nbsp; leestart1023@gmail.com
 
-**Tech-Blog** &nbsp;&nbsp; [https://www.notion.so/leegwonseok/356aba4c82174ecc9f9b329a2b271299](https://leegwonseok.notion.site/356aba4c82174ecc9f9b329a2b271299)
+**Tech-Blog** &nbsp;&nbsp; https://leegwonseok.notion.site/leegwonseok/Back-end-Tech-Log-356aba4c82174ecc9f9b329a2b271299
