@@ -25,6 +25,9 @@
 <br>
 
 ### ⚙ &nbsp;*EXPERIENCE*
+**data preprocessing** : &nbsp;&nbsp;`pandas` `numpy` <br>
+**machine learning** : &nbsp;&nbsp;`scikit-learn`  <br>
+**web scraping** : &nbsp;&nbsp;`beautiful soup` <br>
 
 
 <br>
