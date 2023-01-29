@@ -20,7 +20,7 @@
 **api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
 **container** : &nbsp;&nbsp;`Docker` `Docker-compose`  <br>
-**etc** : &nbsp;&nbsp;`JSdoc` `prettier` `ESlint` `ejs`  <br>
+**etc** : &nbsp;&nbsp; `ejs`  <br>
 
 <br>
 
