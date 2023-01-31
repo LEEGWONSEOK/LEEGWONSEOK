@@ -5,30 +5,16 @@
 현재 `NodeJS` 를 주력 스택으로 사용하고 있으며 <br>
 웹/앱 서비스 개발에 필요한 모든 기술들을 단계적으로 공부하고 있습니다.
 
-코드를 작성함에 있어 예측가능성과 재사용성을 중요시합니다. <br>
-
-
-
 
 <br>
 
 ### ⚙ &nbsp;*SKILL*
 
-**programming** : &nbsp;&nbsp;`javascirpt` `typescript` `Node.js` <br>
-**server-framework** : &nbsp;&nbsp;`Express.js` `Nest.js`  <br>
-**database** : &nbsp;&nbsp;`MySQL` `PostgreSQL`  `MongoDB` `Redis` <br>
-**api** : &nbsp;&nbsp;`Postman` `SwaggerUI` <br>
+**language** : &nbsp;&nbsp;`javascirpt` `typescript` `Node.js` <br>
+**server-framework** : &nbsp;&nbsp;`Nest.js` `Express.js` <br>
+**database** : &nbsp;&nbsp;`MySQL` `PostgreSQL` `MongoDB` `Redis` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
-**container** : &nbsp;&nbsp;`Docker` `Docker-compose`  <br>
-**etc** : &nbsp;&nbsp; `ejs`  <br>
-
-<br>
-
-### ⚙ &nbsp;*EXPERIENCE*
-**data preprocessing** : &nbsp;&nbsp;`pandas` `numpy` <br>
-**machine learning** : &nbsp;&nbsp;`scikit-learn`  <br>
-**web scraping** : &nbsp;&nbsp;`beautiful soup` <br>
-
+**container** : &nbsp;&nbsp;`Docker` <br>
 
 <br>
 
