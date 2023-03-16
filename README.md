@@ -9,7 +9,7 @@
 
 ### ⚙ &nbsp;*SKILL*
 
-**language** : &nbsp;&nbsp;`javascirpt` `typescript` `Node.js` <br>
+**language** : &nbsp;&nbsp;`javascirpt` `typescript` `Node.js` `Java` <br>
 **server-framework** : &nbsp;&nbsp;`Nest.js` `Express.js` <br>
 **database** : &nbsp;&nbsp;`MySQL` `PostgreSQL` `MongoDB` `Redis` <br>
 **aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
