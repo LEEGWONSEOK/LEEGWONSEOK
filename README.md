@@ -4,17 +4,6 @@
 현재 `spring` 를 주력 백엔드 스택으로 사용하고 있으며 <br>
 웹/앱 서비스 개발에 필요한 모든 기술들을 단계적으로 공부하고 있습니다.
 
-
-<br>
-
-### ⚙ &nbsp;*SKILL*
-
-**language** : &nbsp;&nbsp;`javascirpt` `typescript` `Node.js` `Java` <br>
-**server-framework** : &nbsp;&nbsp;`Nest.js` `Express.js` `Spring` `SpringBoot` <br>
-**database** : &nbsp;&nbsp;`MySQL` `PostgreSQL` `MongoDB` `Redis` <br>
-**aws** : &nbsp;&nbsp;`EC2` `S3` `RDS` <br>
-**container** : &nbsp;&nbsp;`Docker` <br>
-
 <br>
 
 ### 👋 &nbsp;*Contact*
