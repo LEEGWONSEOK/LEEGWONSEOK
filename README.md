@@ -1,1 +1,1 @@
-I'll start with small things
+좋은 개발자가 되겠습니다.
