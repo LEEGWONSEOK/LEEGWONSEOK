@@ -1,1 +1,1 @@
-꾸준히 성장하자
+motivate yourself
